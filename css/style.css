@@ -55,6 +55,8 @@ img {
 
 a:link {
     color: green;
+
+    text-decoration: none; */
 }
 
 a:visited {
