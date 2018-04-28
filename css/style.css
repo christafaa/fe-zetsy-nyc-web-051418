@@ -58,14 +58,14 @@ a:link {
     text-decoration: none;
 }
 
-img a:visited {
+a:visited {
     color: rgb(204, 204, 204);
 }
 
-img a:hover {
+a:hover {
     color: rgb(114, 126, 122);
 }
 
-img a:active {
+a:active {
     color: rgb(114, 126, 122);
 }
