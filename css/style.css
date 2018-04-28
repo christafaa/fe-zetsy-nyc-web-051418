@@ -28,4 +28,6 @@ body {
 
 /* Write all remaining styles here */
 
-    border-bottom: 6px solid grey;
+.border-line{
+    border-bottom: 6px solid grey;	
+}
