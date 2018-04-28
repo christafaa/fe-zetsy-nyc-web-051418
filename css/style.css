@@ -9,7 +9,7 @@ h1 {
     font-family: Baskerville;
 		color: rgb(156, 172, 166);
 		font-size: 76px;
-		line-height: 0;
+
 }
 
 /*////////// Global Styles //////////*/
@@ -30,5 +30,6 @@ body {
 /* Write all remaining styles here */
 
 .border-line{
-  border-bottom: 1px solid rgb(204,	204,	204);	
+  border-bottom: 1px solid rgb(204,	204,	204);
+			line-height: 0;
 }
