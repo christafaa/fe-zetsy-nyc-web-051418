@@ -63,7 +63,8 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(114, 126, 122);
+    color: blue;
+		text-decoration: underline;
 }
 
 a:active {
