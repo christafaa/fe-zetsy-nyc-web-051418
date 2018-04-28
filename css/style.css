@@ -55,24 +55,16 @@ img {
 
 a:link {
     color: green;
-    /* background-color: transparent;
-    text-decoration: none; */
 }
 
 a:visited {
     color: rgb(204, 204, 204);
-    /* background-color: transparent;
-    text-decoration: none; */
 }
 
 a:hover {
     color: rgb(114, 126, 122);
-    /* background-color: transparent;
-    text-decoration: underline; */
 }
 
 a:active {
     color: rgb(114, 126, 122);
-    /* background-color: transparent;
-    text-decoration: underline; */
 }
