@@ -60,7 +60,7 @@ a:link {
 }
 
 a:visited {
-    color: pink;
+    color: rgb(204, 204, 204);
     background-color: transparent;
     text-decoration: none;
 }
