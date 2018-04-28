@@ -5,8 +5,8 @@
     src: "fonts/Baskerville.ttc";
 }
 
-div {
-    font-family: myFirstFont;
+h1 {
+    font-family: Baskerville;
 }
 
 /*////////// Global Styles //////////*/
