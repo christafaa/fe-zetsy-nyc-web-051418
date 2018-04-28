@@ -55,18 +55,17 @@ img {
 
 a:link {
     color: blue;
-
-    text-decoration: none; 
+    text-decoration: none;
 }
 
-a:visited {
+img a:visited {
     color: rgb(204, 204, 204);
 }
 
-a:hover {
+img a:hover {
     color: rgb(114, 126, 122);
 }
 
-a:active {
+img a:active {
     color: rgb(114, 126, 122);
 }
