@@ -72,6 +72,10 @@ a:hover {
 		text-decoration: underline;
 }
 
+a:h1 {
+	
+}
+
 a:active {
     color: rgb(58, 133, 191);
 }
