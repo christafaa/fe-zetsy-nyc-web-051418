@@ -53,10 +53,6 @@ img {
 	margin: 5px auto;
 }
 
-a:link {
-    color: blue;
-    text-decoration: none;
-}
 
 a:visited {
     color: rgb(58, 133, 191);
