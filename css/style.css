@@ -29,6 +29,10 @@ body {
 
 /* Write all remaining styles here */
 
-.border-line{
+.border-line {
   border-bottom: 1px solid rgb(204,	204,	204);
+}
+
+img {
+	border: 3px solid
 }
