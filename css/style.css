@@ -53,6 +53,10 @@ img {
 	margin: 5px auto;
 }
 
+img.main {
+	color: rgb(204, 204, 204)
+}
+
 a:link {
 	text-decoration: none;
 	color: rgb(204, 204, 204);
