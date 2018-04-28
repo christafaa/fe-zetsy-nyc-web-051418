@@ -53,6 +53,9 @@ img {
 	margin: 5px auto;
 }
 
+a:link {
+    color: green;
+}
 
 a:visited {
     color: rgb(204, 204, 204);
