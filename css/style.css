@@ -9,6 +9,7 @@ h1 {
     font-family: Baskerville;
 		color: rgb(156, 172, 166);
 		font-size: 76px;
+		line-height: 0;
 }
 
 h2 {
@@ -54,7 +55,7 @@ img {
 }
 
 img.main {
-	color: rgb(156, 172, 166	);
+	color: rgb(156, 172, 166);
 }
 
 a:link {
